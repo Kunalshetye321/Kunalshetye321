@@ -1,7 +1,6 @@
-### Welcome !👋
+### Welcome!👋 I'm Kunal Shetye
 
-- 🔭 I’m currently working as a Student
-- 🌱 I’m learning to code
-- 😄 Pronouns: ...
-- ⚡ fact: Kahi Jaane Ke Liye Kahi Seh Nikalna Padta hai
+- :facepunch: I’m currently working as a Student
+- ⚡ Motivation: Kahi Jaane Ke Liye Kahi Seh Nikalna Padta hai
+- 
 -->
