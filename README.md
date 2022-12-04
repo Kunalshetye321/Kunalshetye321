@@ -1,6 +1,10 @@
 ### Welcome!👋 I'm Kunal Shetye
 
-- :facepunch: I’m currently working as a Student
-- ⚡ Motivation: Kahi Jaane Ke Liye Kahi Seh Nikalna Padta hai
+- 👊 🎓Pursuing Computer Science Engineering at 🏤St. John College Of Engineering & Management, Palghar, Mumbai
+- ⚡ Motivation: Love to score goals both in life and pitch
+- ➡️ Did my schooling at Holy Family Convent High School with 80+(in %)
+- ➡️ Did my intermediate at Vidya Vikasani Junior College with 80+(in %)
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+- ### Skills
 - 
 -->
