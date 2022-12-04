@@ -6,6 +6,6 @@
 - ➡️ Did my intermediate at Vidya Vikasani Junior College with 80+(in %)
 - ### Skills💥
 -  Core Java, C++, HTML, CSS, Javascript, MySQL, etc
--  ![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+-  ![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kunalshetye321&show_icons=true&theme=radical)
 
 
